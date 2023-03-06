@@ -13,17 +13,17 @@ HTML, CSS and JavaScript
   <tbody>
     <tr>
       <td>01</td>
-      <td><a href="">Drawing App</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/24-50JS/tree/main/Kinetic%20Loader">Kinetic Loader</a></td>
+      <td><a href="https://kinetic-loader-zeta.vercel.app/">Live</a></td>
     </tr>
     <tr>
       <td>02</td>
-      <td><a href="">Kinetic Loader</a></td>
+      <td><a href="">Content Placeholder</a></td>
       <td><a href="">Live</a></td>
     </tr>
     <tr>
       <td>03</td>
-      <td><a href="">Content Placeholder</a></td>
+      <td><a href="">.....</a></td>
       <td><a href="">Live</a></td>
     </tr>
   </tbody>
