@@ -19,7 +19,7 @@ HTML, CSS and JavaScript
     <tr>
       <td>02</td>
       <td><a href="https://github.com/the-phoenix-coder/24-50JS/tree/main/Content%20Placeholder">Content Placeholder</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://content-placeholder-dusky.vercel.app/">Live</a></td>
     </tr>
     <tr>
       <td>03</td>
