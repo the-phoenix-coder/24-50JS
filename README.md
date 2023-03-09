@@ -24,7 +24,7 @@ HTML, CSS and JavaScript
     <tr>
       <td>03</td>
       <td><a href="https://github.com/the-phoenix-coder/24-50JS/tree/main/Sticky%20Navbar">Sticky Navbar</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://sticky-navbar-ten.vercel.app/">Live</a></td>
     </tr>
   </tbody>
 </table>
