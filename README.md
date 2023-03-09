@@ -23,7 +23,7 @@ HTML, CSS and JavaScript
     </tr>
     <tr>
       <td>03</td>
-      <td><a href="">.....</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/24-50JS/tree/main/Sticky%20Navbar">Sticky Navbar</a></td>
       <td><a href="">Live</a></td>
     </tr>
   </tbody>
